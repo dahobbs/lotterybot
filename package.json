@@ -1,0 +1,15 @@
+{
+  "name": "twitterbot2",
+  "version": "1.0.0",
+  "description": "this will make random lottery numbers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Hobbs",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
