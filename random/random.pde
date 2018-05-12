@@ -96,4 +96,6 @@ for(int i=0; i<6; i++){
   ball = 80;
   number1 =72;
   number2 =71;
+ save("output.png");
+ exit();
 }
